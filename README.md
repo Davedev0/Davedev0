@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dave 
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning front-end dev
-- 🙌🏻 Stay humble!
 - 🙋🏻‍♂️ I’m comsci student
 - 🎯 Keep learning
-- 💖 I’m passionate about programming and constantly seeking to improve my skills.
+- 🙌🏻 Stay humble
+- 💖 I’m passionate about programming and constantly seeking to improve my skills as a student.

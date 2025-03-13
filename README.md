@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Progamming**
 
-- 📫 How to reach me**Jhondavefuentes9@gmail.com**
+- 📫 How to reach me **Jhondavefuentes9@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

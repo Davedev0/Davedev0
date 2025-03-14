@@ -3,9 +3,9 @@
 
 - 📍 I’m currently studying **Web Development**
 
-- 🎯 I’m currently learning **Html, Css, Tailwindcss, Bootstrap, JSON, Javascript, Python, C, Php and database**
+- 🎯 I’m currently learning **Html, Css, Tailwindcss, Bootstrap, JSON, Javascript, Python, C, Php and Database**
 
-- 💬 Ask me about **Progamming**
+- 💬 Ask me about **Progamming Languages**
 
 - 📫 How to reach me **Jhondavefuentes9@gmail.com**
 

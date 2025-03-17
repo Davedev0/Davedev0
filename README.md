@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Progamming Languages,  Web Development,  and more.**
 
-- 📫 How to reach me at **Jhondavefuentes9@gmail.com**
+- 📫 How to reach me **Jhondavefuentes9@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

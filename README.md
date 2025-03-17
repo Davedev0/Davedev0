@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davedev</h1>
-<h3 align="center"> 👨‍💻 Computer science student</h3>
+<h3 align="center"> 👨‍💻 Computer Science Student | Web Development</h3>
 
 - 📍 I’m currently studying **Web Development and explore the world of programming**
 

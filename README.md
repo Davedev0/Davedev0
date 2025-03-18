@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Davedev</h1>
 <h3 align="center"> 👨‍💻 Computer Science Student | Web Development</h3>
 
-- 📍 I’m currently studying **Web Development and explore the world of programming**
+- 📍 I’m currently studying **Web Development and explore the world of programming.**
 
-- 🌱 I’m currently learning **Html, Css, Tailwindcss, Bootstrap, JSON, Javascript, Python, C, Php and Database**
+- 🌱 I’m currently learning **Html, Css, Tailwindcss, Bootstrap, JSON, Javascript, Python, C, Php and Database.**
 
 - 🎯 Aspiring **Full Stack Developer**
 
-- 💬 Ask me about **Progamming Languages,  Web Development,  and more.**
+- 💬 Ask me about **Progamming Languages,  Web Development,  and More.**
 
-- 📫 How to reach me **Jhondavefuentes9@gmail.com**
+- 📩 How to reach me **Jhondavefuentes9@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Davedev</h1>
-<h3 align="center"> 👨‍💻 Computer Science Student | Web Development</h3>
+<h3 align="center"> 👨‍💻 Computer Science Student</h3>
 
 - 📍 I’m currently studying **Web Development and explore the world of programming.**
 
-- 🌱 I’m currently learning **Html, Css, Tailwindcss, Bootstrap, JSON, Javascript, Python, C, Php and Database.**
+- 🌱 I’m currently learning **Html, Css, Tailwindcss, Bootstrap, JSON, Javascript, Python, C, Java, Php, and Database.**
 
 - 🎯 Aspiring **Full Stack Developer**
 
@@ -20,4 +20,4 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://netlify.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> </a> 
+

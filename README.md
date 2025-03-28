@@ -3,7 +3,7 @@
 
 - 📍 I’m currently studying **Web Development and explore the world of programming.**
 
-- 🌱 I’m currently learning **Html, Css, Tailwindcss, Bootstrap, JSON-API, Javascript,  Java, Python, C, Php, and Database.**
+- 🌱 I’m currently learning **Html, Css, Tailwindcss, Bootstrap, JSON-API, Javascript, React js, node js, express js, Java, Python, C, Php, Database and More**
 
 - 🎯 Aspiring **Full Stack Developer**
 

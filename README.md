@@ -3,7 +3,7 @@
 
 - 📍 I’m currently studying **Web Development and explore the world of programming.**
 
-- 🌱 I’m currently learning **Frontend, Backend, Database**
+- 🌱 I’m currently learning **Frontend, Backend, Database.**
 
 - 🎯 Aspiring **Full Stack Developer**
 

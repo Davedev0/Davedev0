@@ -7,7 +7,7 @@
 
 - 🎯 Aspiring **Developer**
 
-- 💬 Ask me about **Progamming Languages,  Web Development,  and More.**
+- 💬 Ask me about **Progamming Languages
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

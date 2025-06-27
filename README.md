@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Dave!
 
-[![GitHub](https://img.shields.io/badge/-Davedev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davedev)
-[![Computer Science](https://img.shields.io/badge/-Computer%20Science-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Davedev)
+[![GitHub](https://img.shields.io/badge/-Davedev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davedev0)
+[![Computer Science](https://img.shields.io/badge/-Computer%20Science-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Davedev0)
 </div>
 
 ## 🚀 About Me

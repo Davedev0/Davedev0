@@ -10,7 +10,7 @@
 
 ✨ **Studying the world of programming**  
 💻 **Front-end | Back-end | Database**  
-🚀 **Aspiring Developer**  
+📍 **Aspiring Developer**  
 ❓ **Ask me about Programming Languages**
 
 ## 🛠 Focus Language Stack
